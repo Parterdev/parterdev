@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hello world 👋</h1>
+## I'm full stack software developer and really like retro videogames. 
 
-<!--
-**Parterdev/parterdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to show you some info about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on NASA
+- 🌱 I’m currently learning: Python
+- 👯 I’m looking to collaborate whith developers and designers
+- 💬 Ask me about any crazy idea
+- 📫 How to find me: 
+  - [Facebook](www.myfacebook.com)
+  - [LinkedIn](www.mylinkedin.com)
+ 
+- 😄 I enjoy: When I'm in the nature
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
